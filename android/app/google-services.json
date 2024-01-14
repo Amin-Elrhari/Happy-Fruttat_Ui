@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699820885386",
+    "project_id": "happyfruta-f8c7e",
+    "storage_bucket": "happyfruta-f8c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699820885386:android:7e764c2f59d7235ea0b473",
+        "android_client_info": {
+          "package_name": "com.example.happyfrutflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699820885386-5le8uhlfvfcdctafqt47erqhi2safape.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJ2_v1ebLNfdgS4z9cji7DSEDUy8KEW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699820885386-5le8uhlfvfcdctafqt47erqhi2safape.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
